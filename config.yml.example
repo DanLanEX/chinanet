@@ -1,0 +1,11 @@
+# 用户名
+username: ''
+
+# 密码
+password: ''
+
+# 登陆地所在省份
+pro: 'cq' # 重庆
+
+# 账号所在省份
+province: 'wlan.sd.chntel.com' # 山东
